@@ -46,7 +46,7 @@
     "test-listen": "1.1.0"
   },
   "devDependencies": {
-    "eslint-config-prettier": "2.9.0",
+    "eslint-config-prettier": "8.5.0",
     "husky": "0.14.3",
     "lint-staged": "13.0.3",
     "prettier": "2.7.1",
